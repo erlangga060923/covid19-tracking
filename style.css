@@ -1,0 +1,42 @@
+        .pricing-style {
+            padding: 24px 20px 38px;
+            border-radius: 8px;
+            position: relative;
+            overflow: hidden;
+            background: -webkit-linear-gradient(#2bdbdc 0%, #0067f4 100%);
+            background: -o-linear-gradient(#2bdbdc 0%, #0067f4 100%);
+            background: linear-gradient(#2bdbdc 0%, #0067f4 100%);
+        }
+
+        .pricing-style .pricing-icon img {
+            width: 190px; 
+        }
+
+        .pricing-style .pricing-header .sub-title {
+            font-size: 25px;
+            font-weight: 600;
+            line-height: 25px;
+            color: #fff;
+            position: relative;
+            margin-top: 10px; 
+        }
+
+        .pricing-style .pricing-header .month {
+            font-size: 20px;
+            font-weight: 300;
+            line-height: 25px;
+            color: #fff;
+            margin-top: 3px; 
+        }
+
+        .pricing-style .pricing-header .month .price {
+            font-size: 36px;
+            font-weight: 600;
+            line-height: 45px;
+            color: #fff;
+            margin-top: 8px; 
+          }
+
+        section {
+            min-height: 420px;
+        }
